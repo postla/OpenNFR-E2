@@ -1,0 +1,10 @@
+
+[reader]
+label                         = ORF_EMU
+protocol                      = constcw
+device                        = /usr/keys/SoftCam.Key
+caid                          = 0D05
+ident                         = 0D05:000000,000004,000010
+group                         = 1
+audisabled                    = 1
+

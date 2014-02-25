@@ -1,0 +1,31 @@
+# Read more: http://www.streamboard.tv/svn/oscam/trunk/Distribution/doc/txt/oscam.conf.txt
+
+[global]
+logfile                       = /tmp/.oscam/oscam.log
+clienttimeout                 = 9000
+unlockparental                = 1
+nice                          = -1
+maxlogsize                    = 200
+waitforcards                  = 0
+dropdups                      = 1
+lb_mode                       = 1
+lb_save                       = 100
+lb_min_ecmcount               = 4
+lb_savepath                   = /tmp/.oscam/oscam.stat
+failbantime                   = 15
+failbancount                  = 3
+
+
+[dvbapi]
+enabled                       = 1
+au                            = 1
+user                          = meinebox
+boxtype                       = dreambox
+
+[webif]
+httpport                      = 83
+httphelplang                  = de
+httprefresh                   = 15
+httpallowed                   = 127.0.0.1,192.168.0.1-192.168.255.255,10.0.0.1-10.255.255.255
+appendchaninfo                = 1
+

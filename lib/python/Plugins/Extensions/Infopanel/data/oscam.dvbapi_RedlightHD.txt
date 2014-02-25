@@ -1,0 +1,4 @@
+# Read more: http://www.streamboard.tv/svn/oscam/trunk/Distribution/doc/txt/oscam.dvbapi.txt
+
+P: 0500:043800
+

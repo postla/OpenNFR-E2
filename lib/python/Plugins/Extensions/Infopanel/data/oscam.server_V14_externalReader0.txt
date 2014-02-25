@@ -1,0 +1,15 @@
+# Read more: http://www.streamboard.tv/svn/oscam/trunk/Distribution/doc/txt/oscam.server.txt
+
+[reader]
+label                         = v14
+protocol                      = mouse
+device                        = /dev/ttyUSB0
+caid                          = 098C
+ident                         = 098C:000000
+boxid                         = 12345678
+detect                        = cd
+mhz                           = 357
+cardmhz                       = 357
+group                         = 1
+emmcache                      = 1,3,2
+

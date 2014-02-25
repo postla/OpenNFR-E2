@@ -1,0 +1,12 @@
+# Read more: http://www.streamboard.tv/svn/oscam/trunk/Distribution/doc/txt/oscam.user.txt
+
+[account]
+user                          = meinebox
+uniq                          = 3
+au                            = 1
+betatunnel                    = 1833.FFFF:1702
+group                         = 1
+cccmaxhops                    = 15
+cccreshare                    = 15
+cccignorereshare              = 1
+

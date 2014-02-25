@@ -1,0 +1,16 @@
+# Read more: http://www.streamboard.tv/svn/oscam/trunk/Distribution/doc/txt/oscam.server.txt
+
+[reader]
+label                         = v14
+protocol                      = internal
+device                        = /dev/sci1
+caid                          = 098C
+ident                         = 098C:000000
+boxid                         = 12345678
+detect                        = cd
+ins7e11                       = 15
+mhz                           = 500
+cardmhz                       = 357
+group                         = 1
+emmcache                      = 1,3,2
+
