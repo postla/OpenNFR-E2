@@ -403,6 +403,7 @@ lib/python/Plugins/Extensions/Infopanel/data/Makefile
 lib/python/Plugins/Extensions/Infopanel/icons/Makefile
 lib/python/Plugins/Extensions/Infopanel/images/Makefile
 lib/python/Plugins/Extensions/Infopanel/pics/Makefile
+lib/python/Plugins/Extensions/Infopanel/locale/Makefile
 lib/python/Plugins/Extensions/MediaScanner/Makefile
 lib/python/Plugins/Extensions/MediaScanner/meta/Makefile
 lib/python/Plugins/Extensions/MediaPlayer/Makefile
